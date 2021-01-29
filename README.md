@@ -1,4 +1,4 @@
-### Hi there 👋 If you know how to code a discord bot🤖 please tell me! Because I know NOTHING about how to code one!
+### Just someone trying to code...
 
 <!--
 **Cyanomous/Cyanomous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
