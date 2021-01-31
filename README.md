@@ -1,6 +1,6 @@
 <h2 align="center">👋 Heyo!</h2>
 
-I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Don't speak lies we have conquered half the universe by now. Python is a programing language and an animal!
+I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Don't speak lies we have conquered half the universe by now. Python is a programing language and an animal! I make goodish vector art, code goodish stuff, and like books!
 
 [![](https://github-readme-stats.vercel.app/api?username=Cyanomous&theme=midnight)](https://github.com/Cyanomous)
 
