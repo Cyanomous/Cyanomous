@@ -1,4 +1,8 @@
-### Just someone trying to code...
+<h2 align="center">👋 Heyo!</h2>
+
+I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Don't speak lies we have conquered half the universe by now. Python is a programing language and an animal!
+
+[![](https://github-readme-stats.vercel.app/api?username=Cyanomous&theme=midnight)](https://github.com/Cyanomous)
 
 <!--
 **Cyanomous/Cyanomous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
