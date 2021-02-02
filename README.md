@@ -2,8 +2,8 @@
 
 I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Don't speak lies we have conquered half the universe by now. Python is a programing language and an animal! I make goodish vector art, code goodish stuff, and like goodish books!
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Cyanomous&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanomous&layout=compact&card_width=250&hide_border=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Cyanomous&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanomous&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
 
 <!--
 **Cyanomous/Cyanomous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
