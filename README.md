@@ -1,12 +1,15 @@
 <h2 align="center">👋 Heyo!</h2>
 I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you my friend have been left in the dark. I know Python, a bit of html and css! I make goodish vector art, code goodish stuff, and like goodish books!
-<a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a> 
-<h1 align="center">Discord</h1>
+<!--
+<a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a>
+-->
 
 <details>
   <summary><b>Discord</b></summary><br/>
-  ![Discord](https://discord.c99.nl/widget/theme-4/640293675112464407.png)
-  ![Server](<a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a>)
+  <a <p><img align="center" src="https://discord.c99.nl/widget/theme-4/640293675112464407.png" alt="Cyanomous"/></a>
+<!--
+  <a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a>
+-->
 </details>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyanomous&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=radical"/>
 <img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanomous&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
