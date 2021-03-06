@@ -7,6 +7,7 @@ I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you
 <details>
   <summary><b>Discord</b></summary><br/>
   <a <p><img align="center" src="https://discord.c99.nl/widget/theme-4/640293675112464407.png" alt="Cyanomous"/></a>
+  <a href="https://discord.gg/petEegPatJ"><p><img align="center" src="https://discordapp.com/api/guilds/801972671310200852/embed.png?style=banner3" alt="discord"/></a>
 <!--
   <a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a>
 -->
