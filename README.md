@@ -14,7 +14,7 @@ I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you
 </details>
 
 <details>
-  <summary><b>Github</b></summary><br/>
+  <summary><b>Github Stats</b></summary><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyanomous&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=radical"/>
   <img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanomous&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyanomous&theme=dark&currStreakNumber=EB6F92&background=1f1d29&border=FAF4ED&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="streak"/></p>
