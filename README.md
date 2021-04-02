@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hello!</h2>
-I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you my friend have been left in the dark.
+I'm #Cyanomous servant to the nation that is Cyan, never herd of it? Then you my friend have been left in the dark.
 
 - 🔭 I’m currently working on [Cyanmaton](https://cyanomous.github.io/cyanmaton/invite)
 - 🌱 I’m currently learning Python, HTML, CSS, and hopefully Javascript
