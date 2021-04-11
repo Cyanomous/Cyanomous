@@ -5,6 +5,7 @@ I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you
 - 🌱 I’m currently learning Python, HTML, CSS, and hopefully Javascript
 - 😄 Pronouns: He, Him, They, Them
 - ⚡ Fun fact: Python is a snek
+- 
 <!--
 <a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a>
 -->
@@ -23,6 +24,17 @@ I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyanomous&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=radical"/>
   <img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanomous&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyanomous&theme=dark&currStreakNumber=EB6F92&background=1f1d29&border=FAF4ED&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="streak"/></p>
+</details>
+
+<details>
+  <summary><b>Checklist</b></summary><br/>
+  - [x] Learn Python
+  - [x] Make a discord.py bot
+  - [ ] Learn JavaScript
+  - [ ] Make a Minecraft mod
+  - [ ] Make a website
+  - [ ] Make something useful with python
+  - [ ] Get a verified discord bot
 </details>
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyanomous&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=radical"/>
