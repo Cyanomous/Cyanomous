@@ -28,13 +28,13 @@ I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you
 
 <details>
   <summary><b>Checklist</b></summary><br/>
-  - [x] Learn Python
-  - [x] Make a discord.py bot
-  - [ ] Learn JavaScript
-  - [ ] Make a Minecraft mod
-  - [ ] Make a website
-  - [ ] Make something useful with python
-  - [ ] Get a verified discord bot
+- [x] Learn Python
+- [x] Make a discord.py bot
+- [ ] Learn JavaScript
+- [ ] Make a Minecraft mod
+- [ ] Make a website
+- [ ] Make something useful with python
+- [ ] Get a verified discord bot
 </details>
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyanomous&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=radical"/>
