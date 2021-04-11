@@ -25,13 +25,6 @@ I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyanomous&theme=dark&currStreakNumber=EB6F92&background=1f1d29&border=FAF4ED&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="streak"/></p>
 </details>
 
-- [x] Learn Python
-- [x] Make a discord.py bot
-- [ ] Learn JavaScript
-- [ ] Make a Minecraft mod
-- [ ] Make a website
-- [ ] Make something useful with python
-- [ ] Get a verified discord bot
 <details>
   <summary><b>Checklist</b></summary><br/>
   
