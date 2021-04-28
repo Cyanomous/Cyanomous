@@ -9,7 +9,7 @@ I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you
 <a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a>
 -->
 
-<details align="center">
+<details>
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
      <br>
@@ -25,11 +25,15 @@ I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you
      <a href="https://github.com/Cyanomous?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
      <a href="https://github.com/Cyanomous" target="_blank"><img alt="Cyanomous" src="https://badges.pufler.dev/visits/cyanomous/cyanomous?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/cyanomous/cyanomous" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Cyanomous/Cyanomous?label=profile%20updated&style=flat-square"></a>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/kevinjycui/kevinjycui">kevinjycui</a>
+  </p>
   </samp>
   </p>
 </details>
 
-<details align="center">
+<details>
   <summary><b>Discord</b></summary><br/>
   <a <p><img align="center" src="https://discord.c99.nl/widget/theme-4/640293675112464407.png" alt="Cyanomous"/></a>
   <a href="https://discord.gg/petEegPatJ"><p><img align="center" src="https://discordapp.com/api/guilds/801972671310200852/embed.png?style=banner3" alt="discord"/></a>
@@ -38,14 +42,14 @@ I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you
 -->
 </details>
 
-<details align="center">
+<details>
   <summary><b>Github Stats</b></summary><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyanomous&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=radical"/>
   <img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanomous&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyanomous&theme=dark&currStreakNumber=EB6F92&background=1f1d29&border=FAF4ED&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="streak"/></p>
 </details>
 
-<details align="center">
+<details>
   <summary><b>Checklist</b></summary><br/>
   
   
