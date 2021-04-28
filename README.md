@@ -26,7 +26,6 @@ I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you
      <a href="https://github.com/Cyanomous" target="_blank"><img alt="Cyanomous" src="https://badges.pufler.dev/visits/cyanomous/cyanomous?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/cyanomous/cyanomous" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Cyanomous/Cyanomous?label=profile%20updated&style=flat-square"></a>
   <p align="center">
-    ════ ⋆★⋆ ════<br>
     From <a href="https://github.com/kevinjycui/kevinjycui">kevinjycui</a>
   </p>
   </samp>
