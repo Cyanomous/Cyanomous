@@ -6,7 +6,7 @@ I need friends...
 <a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a>
 -->
 
-<details>
+<!-- <details>
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
      <br>
@@ -53,7 +53,7 @@ I need friends...
   <p align="center">
     ════ ⋆★⋆ ════<br>
     By <a href="https://github.com/Cyanomous">Cyanomous</a>
-  </p>
+  </p> -->
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyanomous&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=radical"/>
