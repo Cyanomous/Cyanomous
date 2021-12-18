@@ -30,8 +30,6 @@ I need friends...
 </details>
 
 <details>
-
-<details>
   <summary><b>Github Stats</b></summary><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyanomous&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=radical"/>
   <img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanomous&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
