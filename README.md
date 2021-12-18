@@ -1,10 +1,6 @@
-<h2 align="center">👋 Hello!</h2>
-I'm **Cyanomous** servant to the nation that is Cyan, never herd of it? Then you my friend have been left in the dark.
+<h2 align="center">Hi :)</h2>
 
-- 🔭 I’m currently working on [Cyanmaton](https://cyanomous.github.io/cyanmaton/invite)
-- 🌱 I’m currently learning Python, HTML, CSS, and hopefully Javascript
-- 😄 Pronouns: He, Him, They, Them
-- ⚡ Fun fact: Python is a snek
+I need friends...
 <!--
 <a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a>
 -->
