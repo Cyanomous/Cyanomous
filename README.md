@@ -2,7 +2,6 @@
 
 <h2 align="center">I need friends...</h2>
 
-<br>
 <!--
 <a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a>
 -->
