@@ -1,6 +1,7 @@
-<h2 align="center">Hi :)</h2>
+<h2 align="center">👋 Hello :)</h2>
 
 I need friends...
+<br>
 <!--
 <a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a>
 -->
@@ -29,13 +30,6 @@ I need friends...
 </details>
 
 <details>
-  <summary><b>Discord</b></summary><br/>
-  <a <p><img align="center" src="https://discord.c99.nl/widget/theme-4/640293675112464407.png" alt="Cyanomous"/></a>
-  <a href="https://discord.gg/petEegPatJ"><p><img align="center" src="https://discordapp.com/api/guilds/801972671310200852/embed.png?style=banner3" alt="discord"/></a>
-<!--
-  <a href="https://discord.gg/petEegPatJ" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/petEegPatJ"/></a>
--->
-</details>
 
 <details>
   <summary><b>Github Stats</b></summary><br/>
